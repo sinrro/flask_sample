@@ -1,0 +1,15 @@
+[2018-10-28 20:07:01,642] INFO in _internal:  * Restarting with stat
+[2018-10-28 20:07:02,763] WARNING in _internal:  * Debugger is active!
+[2018-10-28 20:07:02,776] INFO in _internal:  * Debugger PIN: 319-720-624
+[2018-10-28 20:07:02,789] INFO in _internal:  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+[2018-10-28 20:07:11,119] INFO in views: info
+[2018-10-28 20:07:11,119] ERROR in views: error
+[2018-10-28 20:07:11,189] INFO in _internal: 127.0.0.1 - - [28/Oct/2018 20:07:11] "GET / HTTP/1.1" 200 -
+[2018-10-28 20:07:48,581] INFO in _internal: 127.0.0.1 - - [28/Oct/2018 20:07:48] "GET /api_1_0/test_api HTTP/1.1" 200 -
+[2018-10-28 20:10:00,779] INFO in _internal:  * Restarting with stat
+[2018-10-28 20:10:01,898] WARNING in _internal:  * Debugger is active!
+[2018-10-28 20:10:01,911] INFO in _internal:  * Debugger PIN: 319-720-624
+[2018-10-28 20:10:01,923] INFO in _internal:  * Running on http://127.0.0.1:80/ (Press CTRL+C to quit)
+[2018-10-28 20:10:04,554] INFO in views: info
+[2018-10-28 20:10:04,554] ERROR in views: error
+[2018-10-28 20:10:04,623] INFO in _internal: 127.0.0.1 - - [28/Oct/2018 20:10:04] "GET / HTTP/1.1" 200 -
